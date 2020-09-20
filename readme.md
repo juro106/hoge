@@ -15,23 +15,22 @@ hogehoge.
 
 hogehogehoge.
 
-====================================================
 ここからWindows
-====================================================
+===============
 
-- hogehogehogehogehogehogehogehogehgoehgoehgoe
-- hogehogehogehogehogehogehogehogehgoehgoehgoe
-- hogehogehogehogehogehogehogehogehgoehgoehgoe
-- hogehogehogehogehogehogehogehogehgoehgoehgoe
-- hogehogehogehogehogehogehogehogehgoehgoehgoe
-- hogehogehogehogehogehogehogehogehgoehgoehgoe
-- hogehogehogehogehogehogehogehogehgoehgoehgoe
+- hogehogehogehoge
+- hogehogehogehoge
+- hogehogehogehoge
+- hogehogehogehoge
+- hogehogehogehoge
+- hogehogehogehoge
+- hogehogehogehoge
 
 
-1 hogehogehogehogehogehogehogehogehgoehgoehgoe
-2 hogehogehogehogehogehogehogehogehgoehgoehgoe
-3 hogehogehogehogehogehogehogehogehgoehgoehgoe
-4 hogehogehogehogehogehogehogehogehgoehgoehgoe
-5 hogehogehogehogehogehogehogehogehgoehgoehgoe
-6 hogehogehogehogehogehogehogehogehgoehgoehgoe
-7 hogehogehogehogehogehogehogehogehgoehgoehgoe
+1 hogehogehogehoge
+2 hogehogehogehoge
+3 hogehogehogehoge
+4 hogehogehogehoge
+5 hogehogehogehoge
+6 hogehogehogehoge
+7 hogehogehogehoge
