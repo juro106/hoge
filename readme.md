@@ -27,10 +27,10 @@ hogehogehoge.
 - hogehogehogehoge
 
 
-1 hogehogehogehoge
-2 hogehogehogehoge
-3 hogehogehogehoge
-4 hogehogehogehoge
-5 hogehogehogehoge
-6 hogehogehogehoge
-7 hogehogehogehoge
+1. hogehogehogehoge
+2. hogehogehogehoge
+3. hogehogehogehoge
+4. hogehogehogehoge
+5. hogehogehogehoge
+6. hogehogehogehoge
+7. hogehogehogehoge
